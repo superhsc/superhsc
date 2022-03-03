@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://dunwu.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="image/superhsc-logo-nobg-1.png" alt="logo" width="150px"/>
+        <img src="image/superhsc-logo-nobg-2.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
