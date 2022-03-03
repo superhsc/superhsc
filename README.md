@@ -16,5 +16,5 @@
 我的博客：
 
 - [博客园](https://www.cnblogs.com/imaya/)
-- [掘金](https://juejin.im/user/2084329777006167
-- [CSDN]()
+- [掘金](https://juejin.cn/user/4265760848358365)
+- [CSDN](https://blog.csdn.net/Steve_Hao)
