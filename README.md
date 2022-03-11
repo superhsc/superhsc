@@ -2,7 +2,7 @@
 
 <div>
 <p align="center">
-    <a href="https://dunwu.github.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://imaya.happyamay.cn" target="_blank" rel="noopener noreferrer">
         <img src="image/superhsc-logo-nobg-3.png" alt="logo" width="150px"/>
     </a>
 </p>
