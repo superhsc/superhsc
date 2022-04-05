@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://imaya.happyamay.cn" target="_blank" rel="noopener noreferrer">
-        <img src="image/superhsc-logo-nobg-3.png" alt="logo" width="150px"/>
+        <img src="https://github.com/superhsc/image/blob/main/assert/superhsc-logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
@@ -15,7 +15,4 @@
 
 我的博客：
 
-- [CSDN](https://blog.csdn.net/Steve_Hao)
-- [Happymaya](https://imaya.happymaya.cn)
-- [博客园](https://www.cnblogs.com/imaya/)
-- [掘金](https://juejin.cn/user/4265760848358365)
+- [爱码呀-imaya](https://blog.happymaya.cn)
