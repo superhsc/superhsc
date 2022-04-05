@@ -18,16 +18,16 @@
 - [爱码呀-imaya](https://blog.happymaya.cn)
 
 我的技术栈：
-- Dubhe：
-  - Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
+- Dubhe：Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
 <!-- - Merak：
   - Golang
 - Phecda:
   - Python -->
-- Docker，Kubernetes，DevOps ...
+- Merak：Docker，Kubernetes，DevOps ...
 - Phecda：MySQL, Redis, Elastic Stack ...
+- Alkaid：HTML, CSS, JavaScript, VUE ...
 <!-- - Megrez：
   - Alioth： -->
-- Mizar：
+<!-- - Mizar： -->
 <!-- - Alcor：Python -->
-- Alkaid
+<!-- - Alkaid -->
