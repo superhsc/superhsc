@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://blog.happymaya.cn" target="_blank" rel="noopener noreferrer">
-        <img src="./superhsc-logo-nobg-1.png" alt="logo" width="150px"/>
+        <img src="superhsc-logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
