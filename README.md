@@ -16,3 +16,18 @@
 我的博客：
 
 - [爱码呀-imaya](https://blog.happymaya.cn)
+
+我的技术栈：
+- Dubhe：
+  - Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
+<!-- - Merak：
+  - Golang
+- Phecda:
+  - Python -->
+- Docker，Kubernetes，DevOps ...
+- Phecda：MySQL, Redis, Elastic Stack ...
+<!-- - Megrez：
+  - Alioth： -->
+- Mizar：
+<!-- - Alcor：Python -->
+- Alkaid
