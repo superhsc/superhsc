@@ -19,10 +19,6 @@
 
 我的技术栈：
 - Dubhe：Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
-<!-- - Merak：
-  - Golang
-- Phecda:
-  - Python -->
 - Merak：Docker，Kubernetes，DevOps ...
 - Phecda：MySQL, Redis, Elastic Stack ...
 - Alkaid：HTML, CSS, JavaScript, VUE ...
@@ -31,3 +27,7 @@
 <!-- - Mizar： -->
 <!-- - Alcor：Python -->
 <!-- - Alkaid -->
+<!-- - Merak：
+  - Golang
+- Phecda:
+  - Python -->
